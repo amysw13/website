@@ -9,7 +9,7 @@ sidebar:
     Student supervision of research projects, at undergraduate and masters levels in the capacity of co-supervisor often in-field and recently remotely. A few outreach projects I have been as part of. 
   author: ""
   text_link_label: ""
-  text_link_url: /index.xml
+  text_link_url: ""
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
@@ -24,7 +24,6 @@ cascade:
     text_link_label: View recent articles
     text_link_url: /teaching/
     show_sidebar_adunit: false # show ad container
-
 ---
 
 
