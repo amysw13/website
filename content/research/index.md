@@ -19,13 +19,14 @@ title: Research Interests & Publications
   - Geocomputation
   - Quantitative ecology
   - Global Change
-  
+
+---
 
 # Publications
 
 |||
 |:-:|:-:|
-|<img align="left" width="500" src="/research/Figure_1.png" >|<div style="text-align: left">Sing Wong, A., Vrontos, S., & Taylor, M. L. (2022). An assessment of people living by coral reefs over space and time. Global Change Biology, 00, 1–15. https://doi.org/10.1111/gcb.16391</div>
+|<img align="left" width="550" src="/research/Figure_1.png" >|<div style="text-align: left">Sing Wong, A., Vrontos, S., & Taylor, M. L. (2022). An assessment of people living by coral reefs over space and time. Global Change Biology, 00, 1–15. https://doi.org/10.1111/gcb.16391</div>
 
 
 
