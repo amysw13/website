@@ -1,91 +1,83 @@
 ---
 title: Fieldwork
 subtitle: "Fieldwork experience has covered a range of environments and research topics and techniques."
+show_title_as_headline: true
 author: ""
 show_post_thumbnail: true
 show_author_byline: false
-show_post_date: false
-layout: single-sidebar
-
-sidebar: 
-  title: Fieldwork
-  description: |
-    My fieldwork experience has covered a range of environments and research techniques.
-  author: ""
-  text_link_label: ""
-  text_link_url: /index.xml
-  show_sidebar_adunit: false # show ad container
-
-# set up common front matter for all pages inside blog/
-cascade:
-  type: project
-  author: ""
-  show_author_byline: false
-  show_post_date: false
-  show_comments: false # see site config to choose Disqus or Utterances
-  # for single-sidebar layout
-  sidebar:
-    text_link_label: ""
-    text_link_url: /fieldwork/
-    show_sidebar_adunit: false # show ad container
+type: page
+layout: standard
 ---
+{{< toc hide_on="xl" >}}
 
-## 2023
+### 2023
 
-### Deep Sea Coral Reefs, Galapagos.
+## Deep Sea Coral Reefs, Galapagos.
 
 [Galapagos Deep 2023 research cruise](https://galapagosdeep2023.com)
 
 Working primarily with the Biology and Mapping teams, I assisted with taking live biology samples, that would be analysed for taxonomy, genetics and population connectivity.
 Biology, Data Management and Mapping teams. 
 
-<img align="left" width="500" src="/fieldwork/galapagos-masked.png" alttext="Mapping tracks of the Galapagos">
+<center><img width="80%" src="/fieldwork/galapagos-masked.png" alt="Mapping tracks of the Galapagos"></center>
 
-## 2019 
+**Skills:** biological sampling, multi-beam mapping - data acquisition and processing, data management, USBL data, human operated submersible - sampling deep sea environments for biology and geology, seafaring research cruise
 
-### Coral reefs & Mangroves lagoons, Seychelles.
+### 2019 
 
-coral reef monitoring, coral nursery building, 3D coral modelling Earthwatch and University of Essex partnership
+## Coral reefs & Mangrove lagoons, Seychelles.
 
-## 2016, 2017 & 2018 
+Curieuse Marine National Park, Seychelles with University of Essex in partnership with Earthwatch. 
 
-### Coral reefs, Mangroves and Seagrass beds, Indonesia.
+Assisted with the long-term monitoring of the local reefs including benthic and fish surveys. Implemented 3D coral modelling project and establishing new coral nurseries. 
 
-Wakatobi, Indonesia with Operation Wallacea.
+Assisted fellow PhD candidate with coral trans-location fieldwork in coral reef and mangrove lagoons and water sampling for nutrient loading analysis. 
 
+**Skills:** 3D coral modelling, establishing a coral nursery, water sample collection and in-field processing. 
 
-## 2013
+### 2016, 2017 & 2018 
 
-### Mangrove Forests, Zanzibar
+## Coral reefs, Mangroves and Seagrass beds, Indonesia.
 
-Mangrove forest biodiversity, carbon, and tidal sampling in
-collaboration with the Institute of Marine Science, Zanzibar; University of Dar Es Salaam.
+Based in the Wakatobi marine national park, Southeast Sulawesi, Indonesia working with Operation Wallacea, and studying at University of Essex.
 
-My research for MSc Marine Biology, Bangor University Wales entitled “The effect of tidal setting on carbon delivery in mangrove forests on Unguja Island, Zanzibar”. Focused on investigating carbon sequestration into sediments across the tidal range in mangrove forests in Zanzibar. This was a 2 month long expedition, where I measured descriptive
-features of mangrove trees and composition of species. Additionally, collecting and processing mangrove leaf and sediment samples.
+Supervised research students, taught coral reef ecology, fish and coral identification, introduction to mangroves and seagrass beds. Alongside, long-term monitoring of reefs in terms of benthic and fish surveys. 
 
+Master by research project on the "Functional niche partitioning in herbivorous coral reef fishes". Conducted a low tech field experiment, using exclusion cages across the depths of the reef to monitor the functional roles of herbivores on algae controlling algae communities. 
+
+**Skills:** Underwater research techniques, supervision and mentoring, teaching, diving logistics, in-field analysis logistics. 
+
+### 2013
+
+## Mangrove Forests, Zanzibar
+
+Research project for MSc Marine Biology, Bangor University Wales in conjunction with the Institute of Marine Science, Zanzibar; University of Dar Es Salaam, entitled “The effect of tidal setting on carbon delivery in mangrove forests on Unguja Island, Zanzibar”.
+
+Focused on investigating carbon sequestration into sediments across the tidal range in mangrove forests in Zanzibar. This was a 2 month long expedition, where I measured descriptive features of mangrove trees and composition of species, sampled shallow sediment cores, leaf litter. Including calculating potential carbon stocks, organic matter and dry bulk density of soil. 
+
+**Skills:** C/N analysis with Carlo-Erba NA-1500 Elemental Analyser, Loss of ignition for organic matter calculations, grain size, Malvern Mastersizer 2000 for particle size analysis, 
 
 ### Mudflats, Shell Island, North Cardigan Bay, Wales
 
-Mudflat habitat and biodiversity monitoring
+Mudflat habitat and biodiversity monitoring, to determine physical, biological, identify and map biotopes and, potential anthropogenic impacts. 
 
-## 2012
+### 2012
 
-### Coral reefs, Fiji 
+## Coral reefs, Fiji 
 
-Research assistant internship, marine conservation project with Frontier.
+Research assistant internship, marine conservation project with Frontier. 
 
-## 2009
+### 2009
 
-### National Parks, Tanzania
+## National Parks, Tanzania
 
 Conservation and Management methods – large mammal surveys, management of national parks in collaboration with Mweka Wildlife College.
 
-### Laurel forests, Madeira, Portugal 
+## Laurel forests, Madeira, Portugal 
 
 Self-directed laurel forest monitoring project 
 
-## 2008 
+### 2008 
 
 ### Laurel forests, Madeira, Portugal 
 

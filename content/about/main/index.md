@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  I am a marine ecologist  with a particular interest in tropical coastal ecosystems and extending to deep-sea environments. I obtained my PhD from the [University of Essex](https://www.essex.ac.uk), UK in the [TaylorLab](https://taylorlab.science), funded by the faculty research studentship within the School of Life Sciences, and department of Mathematical Sciences. 
+  I am a marine ecologist with a particular interest in tropical coastal ecosystems and extending to deep-sea environments. Focusing on the intersection of people and nature and how data can inform policy and conservation. I obtained my PhD from the [University of Essex](https://www.essex.ac.uk), UK in the [TaylorLab](https://taylorlab.science), funded by the faculty research studentship within the School of Life Sciences, and department of Mathematical Sciences. 
   
   My research “Temporal global trends of human population and dependency on coral reefs”, focused on updating statistics and creating a long-term dataset of human populations near coral reefs. I also developed a human dependency framework, which utilises open access data to model human dependency on coral reefs and is designed to be reproducible and adaptable to newly available data. 
   
