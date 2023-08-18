@@ -31,7 +31,7 @@
   {{/* Attempt to automatically load gallery images from page bundle */}}
   {{ $images := resources.Match $album_path }}
   {{ range (sort $images "Name" $sort_order) }}
-    {{ $image := .Fit $resize_options }}
+    {{ $image := .Resize $resize_options }}
     {{/* Check if the user set a caption for this image */}}
     {{ $filename := path.Base .Name }}
     {{ $caption := "" }}
@@ -48,11 +48,11 @@
   {{else if in .Name "-l." }}
     {{ $image_size = "gallery-item--large" }}
   {{end}}
-  <div class="gallery-item {{$image_size}}">
+
     <a data-fancybox="gallery-{{$album}}" href="{{ .RelPermalink }}" {{ with $caption }}data-caption="{{.|markdownify|emojify|safeHTMLAttr}}"{{ end }}>
       <img src="{{ $image.RelPermalink }}" loading="lazy" alt="{{ plainify $caption | default $filename }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
     </a>
-  </div>
+
   {{else}}
     {{ errorf "Unable to load gallery `%s` in `%s`." $album_path .Page.File.Filename }}
   {{end}}

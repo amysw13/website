@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVs on Amy Sing Wong</title>
+    <link>https://amysingwong.netlify.app/cv/</link>
+    <description>Recent content in CVs on Amy Sing Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://amysingwong.netlify.app/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>resume</title>
+      <link>https://amysingwong.netlify.app/cv/2023-08-14-resume/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://amysingwong.netlify.app/cv/2023-08-14-resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

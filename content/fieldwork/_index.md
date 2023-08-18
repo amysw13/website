@@ -35,9 +35,12 @@ Assisted fellow PhD candidate with coral trans-location fieldwork in coral reef 
 
 **Skills:** 3D coral modelling, establishing a coral nursery, water sample collection and in-field processing. 
 
+
 ### 2016, 2017 & 2018 
 
 ## Coral reefs, Mangroves and Seagrass beds, Indonesia.
+
+
 
 Based in the Wakatobi marine national park, Southeast Sulawesi, Indonesia working with Operation Wallacea, and studying at University of Essex.
 
@@ -56,6 +59,8 @@ Research project for MSc Marine Biology, Bangor University Wales in conjunction 
 Focused on investigating carbon sequestration into sediments across the tidal range in mangrove forests in Zanzibar. This was a 2 month long expedition, where I measured descriptive features of mangrove trees and composition of species, sampled shallow sediment cores, leaf litter. Including calculating potential carbon stocks, organic matter and dry bulk density of soil. 
 
 **Skills:** C/N analysis with Carlo-Erba NA-1500 Elemental Analyser, Loss of ignition for organic matter calculations, grain size, Malvern Mastersizer 2000 for particle size analysis, 
+
+{{< gallery album="mangroves" resize_options="200x200" >}}
 
 ### Mudflats, Shell Island, North Cardigan Bay, Wales
 

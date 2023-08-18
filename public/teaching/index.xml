@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching &amp; Outreach on Amy Sing Wong</title>
+    <link>https://amysingwong.netlify.app/teaching/</link>
+    <description>Recent content in Teaching &amp; Outreach on Amy Sing Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://amysingwong.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outreach</title>
+      <link>https://amysingwong.netlify.app/teaching/outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amysingwong.netlify.app/teaching/outreach/</guid>
+      <description>Outreach Pint of Science, Colchester, 2018 A member of the Pint of Science, Colchester coordinating team, within the Planet Earth team. Contacted potential speakers and curated the Planet Earth themed evening talks, along with additional activities to engage the public.
+The Reef &amp;amp; Me, Maldives, 2016 The project launched with Park Hyatt, Maldives in partnership with a newly established Maldivian NGO Biodiversity, Education and Awareness Maldives (BEAM), Parley and Adidas.</description>
+    </item>
+    
+    <item>
+      <title>Teaching &amp; Supervision</title>
+      <link>https://amysingwong.netlify.app/teaching/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amysingwong.netlify.app/teaching/teaching/</guid>
+      <description>Teaching Working as a graduate laboratory assistant during my time at the University of Essex. I have demonstrated on a number of practicals out in the field, labs, computer labs and online.
+Modules: population demography biological and physical processes of estuaries biology of reef-building corals marine ecology GIS remote sensing data manipulation Bioinformatics Introduction to R This included remote sensing data manipulation a course I helped develop for a self-directed learning module that was taught online.</description>
+    </item>
+    
+  </channel>
+</rss>
