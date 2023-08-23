@@ -6,51 +6,7 @@
     <description>Recent content on Amy Sing Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://amysingwong.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A first post</title>
-      <link>https://amysingwong.netlify.app/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amysingwong.netlify.app/blog/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
-beginning middle end </description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>https://amysingwong.netlify.app/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amysingwong.netlify.app/blog/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\02-spoonful\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
-    
-    <item>
-      <title>A third post</title>
-      <link>https://amysingwong.netlify.app/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amysingwong.netlify.app/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\03-spoonful\index.markdown Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
-To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    
-    <item>
-      <title>resume</title>
-      <link>https://amysingwong.netlify.app/cv/2023-08-14-resume/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://amysingwong.netlify.app/cv/2023-08-14-resume/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amysingwong.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Rmarkdown post</title>
       <link>https://amysingwong.netlify.app/blog/rmarkdown/</link>
@@ -85,7 +41,7 @@ The Reef &amp;amp; Me, Maldives, 2016 The project launched with Park Hyatt, Mald
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amysingwong.netlify.app/research/</guid>
-      <description>Research Interests TDLR Tropical marine ecosystems and deep-sea Socio-ecological systems Nature and people Geocomputation Quantitative ecology Global Change Marine ecologist with a particular interest in tropical coastal ecosystems and extending to deep-sea environments. Focusing on the intersection of people and nature and how data can inform policy and conservation. Research has used ecological and socio-ecological approaches complemented with field work, open access databases, spatial analyses, and modelling to produce outputs that facilitate policy.</description>
+      <description>On this pageResearch Interests Publications Research Interests Marine ecologist with a particular interest in tropical coastal ecosystems and extending to deep-sea environments. Focusing on the intersection of people and nature and how data can inform policy and conservation. Research has used ecological and socio-ecological approaches complemented with field work, open access databases, spatial analyses, and modelling to produce outputs that facilitate policy.Particularly interested in developing reproducible and accessible methods, that result in tools and outputs to further inform policy, drive human welfare, livelihoods, and ecosystem conservation efforts.</description>
     </item>
     
     <item>

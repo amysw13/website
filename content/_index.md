@@ -10,7 +10,7 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle: Marine ecologist
-text_align_left: false
+text_align_left: true
 title: Amy Sing Wong
 type: home
 ---
