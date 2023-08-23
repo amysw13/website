@@ -1,8 +1,8 @@
 ---
 title: Outreach
-layout: single
+layout: 
 ---
-### Outreach
+# Outreach
 
 
 #### Pint of Science, Colchester, 2018

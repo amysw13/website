@@ -19,9 +19,11 @@ layout: standard
 Working primarily with the Biology and Mapping teams, I assisted with taking live biology samples, that would be analysed for taxonomy, genetics and population connectivity.
 Biology, Data Management and Mapping teams. 
 
-<center><img width="80%" src="/fieldwork/galapagos-masked.png" alt="Mapping tracks of the Galapagos"></center>
+{{< icon name="cog" pack="fas" >}}**Skills:** biological sampling, multi-beam mapping - data acquisition and processing, data management, USBL data, human operated submersible - sampling deep sea environments for biology and geology, seafaring research cruise
 
-**Skills:** biological sampling, multi-beam mapping - data acquisition and processing, data management, USBL data, human operated submersible - sampling deep sea environments for biology and geology, seafaring research cruise
+<center><img width="60%" src="/fieldwork/galapagos-masked.png" alt="Mapping tracks of the Galapagos"></center>
+
+---
 
 ### 2019 
 
@@ -36,11 +38,13 @@ Assisted fellow PhD candidate with coral trans-location fieldwork in coral reef 
 **Skills:** 3D coral modelling, establishing a coral nursery, water sample collection and in-field processing. 
 
 
+---
+
 ### 2016, 2017 & 2018 
 
 ## Coral reefs, Mangroves and Seagrass beds, Indonesia.
 
-
+ Acanthurus pyroferus
 
 Based in the Wakatobi marine national park, Southeast Sulawesi, Indonesia working with Operation Wallacea, and studying at University of Essex.
 
@@ -48,7 +52,12 @@ Supervised research students, taught coral reef ecology, fish and coral identifi
 
 Master by research project on the "Functional niche partitioning in herbivorous coral reef fishes". Conducted a low tech field experiment, using exclusion cages across the depths of the reef to monitor the functional roles of herbivores on algae controlling algae communities. 
 
-**Skills:** Underwater research techniques, supervision and mentoring, teaching, diving logistics, in-field analysis logistics. 
+**Skills:** Underwater research techniques, supervision and mentoring, teaching, diving logistics, in-field analysis logistics.
+
+{{< gallery album="opwall_exp"
+resize_options="200x150" >}}
+
+---
 
 ### 2013
 
@@ -62,15 +71,21 @@ Focused on investigating carbon sequestration into sediments across the tidal ra
 
 {{< gallery album="mangroves" resize_options="200x200" >}}
 
-### Mudflats, Shell Island, North Cardigan Bay, Wales
+
+## Mudflats, Shell Island, North Cardigan Bay, Wales
 
 Mudflat habitat and biodiversity monitoring, to determine physical, biological, identify and map biotopes and, potential anthropogenic impacts. 
+
+
+---
 
 ### 2012
 
 ## Coral reefs, Fiji 
 
 Research assistant internship, marine conservation project with Frontier. 
+
+---
 
 ### 2009
 
@@ -81,6 +96,8 @@ Conservation and Management methods – large mammal surveys, management of nati
 ## Laurel forests, Madeira, Portugal 
 
 Self-directed laurel forest monitoring project 
+
+---
 
 ### 2008 
 

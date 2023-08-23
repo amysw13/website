@@ -1,8 +1,8 @@
 ---
 title: Teaching & Supervision
-layout: single
+layout: 
 ---
-### Teaching
+# Teaching
 
 Working as a graduate laboratory assistant during my time at the University of Essex. I have demonstrated on a number of practicals out in the field, labs, computer labs and online. 
 

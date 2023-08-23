@@ -26,6 +26,8 @@
 {{ $sort_order := .Get "order" | default "asc" }}
 {{ $resize_options := printf "%s webp" (.Get "resize_options" | default "750x750") }}
 
+
+
 <div class="gallery-grid">
 
   {{/* Attempt to automatically load gallery images from page bundle */}}
@@ -58,3 +60,4 @@
   {{end}}
 
 </div>
+

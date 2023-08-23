@@ -4,9 +4,9 @@ title: Teaching & Outreach
 layout: list-sidebar # list, list-sidebar, list-grid
 # for list-sidebar layout
 sidebar: 
-  title: Teaching & Outreach
+  title: "Teaching & Outreach"
   description: |
-    Student supervision of research projects, at undergraduate and masters levels in the capacity of co-supervisor often in-field and recently remotely. A few outreach projects I have been as part of. 
+    Click to read further.
   author: ""
   text_link_label: ""
   text_link_url: ""
@@ -14,7 +14,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  type: blog
+  type: project
   author: ""
   show_author_byline: false
   show_post_date: false

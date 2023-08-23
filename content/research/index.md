@@ -4,31 +4,28 @@ title: Research Interests & Publications
 layout: standard
 ---
 
-# Research Interests
+{{< toc hide_on="xl" >}}
 
-## TDLR
-
-  - Tropical marine ecosystems and deep-sea
-  - Socio-ecological systems
-  - Nature and people
-  - Geocomputation
-  - Quantitative ecology
-  - Global Change
-  - {{< icon name="r-project" pack="fab" >}}
- 
+## Research Interests
 
 <p align="justify">
   Marine ecologist with a particular interest in tropical coastal ecosystems and extending to deep-sea environments. Focusing on the intersection of people and nature and how data can inform policy and conservation. Research has used ecological and socio-ecological approaches complemented with field work, open access databases, spatial analyses, and modelling to produce outputs that facilitate policy.
   
   Particularly interested in developing reproducible and accessible methods, that result in tools and outputs to further inform policy, drive human welfare, livelihoods, and ecosystem conservation efforts. Additionally, exploring the relationships between people and nature, and the concepts of ecosystem services, value of nature and the nascent tools of insurance policy for nature.
   
-{{< icon name="r-project" pack="fab" >}} enthusiast. 
-
+  - Tropical marine ecosystems and deep-sea
+  - Socio-ecological systems
+  - Nature and people
+  - Geocomputation
+  - Quantitative ecology
+  - Global Change
+  - {{< icon name="r-project" pack="fab" >}} enthusiast.
+ 
 </p>
 
 ---
 
-# Publications
+## Publications
 
 |||
 |:-:|:-:|
