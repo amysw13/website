@@ -6,9 +6,12 @@ author: ""
 show_post_thumbnail: true
 show_author_byline: false
 type: page
-layout: standard
+layout: single
 ---
+
 {{< toc hide_on="xl" >}}
+
+---
 
 ### 2023
 
@@ -35,8 +38,7 @@ Assisted with the long-term monitoring of the local reefs including benthic and 
 
 Assisted fellow PhD candidate with coral trans-location fieldwork in coral reef and mangrove lagoons and water sampling for nutrient loading analysis. 
 
-**Skills:** 3D coral modelling, establishing a coral nursery, water sample collection and in-field processing. 
-
+{{< icon name="cog" pack="fas" >}}**Skills:** 3D coral modelling, establishing a coral nursery, water sample collection and in-field processing. 
 
 ---
 
@@ -44,18 +46,16 @@ Assisted fellow PhD candidate with coral trans-location fieldwork in coral reef 
 
 ## Coral reefs, Mangroves and Seagrass beds, Indonesia.
 
- Acanthurus pyroferus
-
 Based in the Wakatobi marine national park, Southeast Sulawesi, Indonesia working with Operation Wallacea, and studying at University of Essex.
 
 Supervised research students, taught coral reef ecology, fish and coral identification, introduction to mangroves and seagrass beds. Alongside, long-term monitoring of reefs in terms of benthic and fish surveys. 
 
 Master by research project on the "Functional niche partitioning in herbivorous coral reef fishes". Conducted a low tech field experiment, using exclusion cages across the depths of the reef to monitor the functional roles of herbivores on algae controlling algae communities. 
 
-**Skills:** Underwater research techniques, supervision and mentoring, teaching, diving logistics, in-field analysis logistics.
+{{< icon name="cog" pack="fas" >}}**Skills:** Underwater research techniques, supervision and mentoring, teaching, diving logistics, in-field analysis logistics.
 
 {{< gallery album="opwall_exp"
-resize_options="200x150" >}}
+resize_options="150x150" >}}
 
 ---
 
@@ -67,15 +67,14 @@ Research project for MSc Marine Biology, Bangor University Wales in conjunction 
 
 Focused on investigating carbon sequestration into sediments across the tidal range in mangrove forests in Zanzibar. This was a 2 month long expedition, where I measured descriptive features of mangrove trees and composition of species, sampled shallow sediment cores, leaf litter. Including calculating potential carbon stocks, organic matter and dry bulk density of soil. 
 
-**Skills:** C/N analysis with Carlo-Erba NA-1500 Elemental Analyser, Loss of ignition for organic matter calculations, grain size, Malvern Mastersizer 2000 for particle size analysis, 
+{{< icon name="cog" pack="fas" >}}**Skills:** C/N analysis with Carlo-Erba NA-1500 Elemental Analyser, Loss of ignition for organic matter calculations, grain size, Malvern Mastersizer 2000 for particle size analysis, 
 
-{{< gallery album="mangroves" resize_options="200x200" >}}
+{{< gallery album="mangroves" resize_options="150x150" >}}
 
 
 ## Mudflats, Shell Island, North Cardigan Bay, Wales
 
 Mudflat habitat and biodiversity monitoring, to determine physical, biological, identify and map biotopes and, potential anthropogenic impacts. 
-
 
 ---
 

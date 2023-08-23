@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Amy Sing Wong"
   orgLocal = ""
   description = "Marine ecologist"
-  favicon = "/img/favicon.ico"
-#   logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/amy.ico"
+  logo = "/img/name_colour.png"
   mainSections = [
   "Research", "Fieldwork", "Teaching", "Blog"]
   navallcaps = true
@@ -42,7 +42,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/amy_avatar.jpg"
+  sharing_image = "/img/lily_pond.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "amysw13"
 
@@ -63,11 +63,11 @@ enableEmoji = true
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = ""
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "Athelas"
-  headingFontFamily = "sans-serif"
+  textFontFamily = "Tw Cen MT"
+  headingFontFamily = "Tw Cen MT"
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
@@ -101,7 +101,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/amysw13"
 #  [[params.social]]
 #      icon      = "impactstory" # icon name without the 'fa-'
 #      icon_pack = "ai"
@@ -128,30 +128,36 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 5
-  [[menu.header]]
     name = "Research"
     title = "Research & Publications"
     url = "/research/"
     weight = 2
-  [[menu.header]]
-    name = "Teaching"
-    title = "Teaching & Outreach"
-    url = "/teaching/"
-    weight = 4
   [[menu.header]]
     name = "Fieldwork"
     title = "Fieldwork"
     url = "/fieldwork/"
     weight = 3
   [[menu.header]]
+    name = "Teaching"
+    title = "Teaching & Outreach"
+    url = "/teaching/"
+    weight = 4
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 5
+  [[menu.header]]
     name = "CV"
     title = "CV"
     url = "cv/AmySingWong_resume.pdf"
     weight = 6
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 7
+
 
   # Configure footer
 #  [[menu.footer]]
@@ -159,11 +165,11 @@ enableEmoji = true
 #    title = "License"
 #    url = "/license/"
 #    weight = 1
-#  [[menu.footer]]
-#    name = "Contact"
-#    title = "Contact form"
-#    url = "/contact/"
-#    weight = 2
+  [[menu.footer]]
+    name = "Contact Me"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 1
 #  [[menu.footer]]
 #    name = "Contributors"
 #    title = "Contributors"

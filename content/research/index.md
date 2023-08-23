@@ -1,7 +1,7 @@
 ---
 show_title_as_headline: true
 title: Research Interests & Publications
-layout: standard
+layout: single
 ---
 
 {{< toc hide_on="xl" >}}
@@ -27,10 +27,14 @@ layout: standard
 
 ## Publications
 
-|||
-|:-:|:-:|
-<img align="left" width="800" src="/research/graphical_abs.png" >|<div style="text-align: left">**Sing Wong, A.**, Vrontos, S., & Taylor, M. L. (2022). An assessment of people living by coral reefs over space and time. Global Change Biology, 00, 1–15. https://doi.org/10.1111/gcb.16391</div>
+<img width="200"  src="/research/graphical_abs.png" style="float:left; width:250px; height:170px; margin-right:15px;">
 
----
+<b>Sing Wong, A.</b>, Vrontos, S., & Taylor, M. L. (2022). An assessment of people living by coral reefs over space and time. Global Change Biology, 00, 1–15. https://doi.org/10.1111/gcb.16391
+
+
+
+
+
+
 
 

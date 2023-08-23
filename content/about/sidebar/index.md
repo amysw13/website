@@ -11,8 +11,8 @@ link_list:
   url: /research/#publications
 - name: CV
   url: cv/AmySingWong_resume.pdf
-#- name: People
-#  url: https://en.wikipedia.org/wiki/People
+- name: Contact Me
+  url: /contact/
 ---
 
 ** index doesn't contain a body, just front matter above.
