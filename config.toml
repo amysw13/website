@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Amy Sing Wong"
   orgLocal = ""
   description = "Marine ecologist"
-  favicon = "/img/amy.ico"
+  favicon = "/img/amy_favicon.ico"
   logo = "/img/name_colour.png"
   mainSections = [
   "Research", "Fieldwork", "Teaching", "Blog"]
@@ -150,7 +150,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/AmySingWong_resume.pdf"
+    url = "cv/AmySingWong_resume.pdf"
     weight = 6
   [[menu.header]]
     name = "Contact"
